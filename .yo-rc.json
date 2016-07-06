@@ -1,0 +1,9 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "What is Praesto?",
+    "packageVersion": "0.1.0",
+    "revealTheme": "night",
+    "useSass": false,
+    "deployToGithubPages": false
+  }
+}
